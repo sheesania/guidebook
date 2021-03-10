@@ -59,7 +59,7 @@ In short, people earn membership in open source software communities by virtue o
 
 === Why do people join open source software communities
 
-People join open open source software communities for many different reasons.
+People join open source software communities for many different reasons.
 
 Many join because working on the software is part of their jobs—either because their organizations hired them to develop it, or because their jobs depend on the software working well.
 They join communities so they can directly impact the development of software on which they (or their organizations) rely for critical operations.
@@ -128,7 +128,7 @@ Does it match your style of getting things done?
 For example, an organization like a university or a branch of the armed forces would have two very different approaches to getting things done.
 Their reasons for forming any kind of community may be wildly different, or unexpectedly aligned.
 
-A feature of communities of practice that applies to open source software communities is how they can truly draw together people and organizations form wildly different worlds.
+A feature of communities of practice that applies to open source software communities is how they can truly draw together people and organizations from wildly different worlds.
 The key is when their common interests cross (the practice) and when there is tolerance for sharing and growing together (community).
 
 Some other considerations around forming an open source community:
@@ -286,3 +286,4 @@ Combining the answers to these seven questions, next steps for your project shou
 
 This chapter covered the basics of what an open source community is and why different types of people and organizations participate in them.
 Then it discussed making the decision to start a new open source community, and finished with the process for setting your new project's goals.
+
